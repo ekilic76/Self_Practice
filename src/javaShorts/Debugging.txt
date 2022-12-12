@@ -1,0 +1,6 @@
+Debugging
+    . Debugging is an important part of the working with code
+    . Debugging is going through the code manually to determine each steps' functionality
+    . Debugging is often done when the code is not behaving as expected. By checking the lines one at a time its
+    possible to determine where the problem, or bug, is occurring and that can allow us to fix
+    . IntelliJ has a debugging feature that gives us control to execute one line at a time and show the result of each line

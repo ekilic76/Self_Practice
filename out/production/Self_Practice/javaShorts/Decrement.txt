@@ -1,0 +1,5 @@
+Decrementing
+    . Decrementing is  reducing a value by 1 or subtracting 1 from the value
+    . Decrementing is not as common as incrementing, but can be usefull is certain situations
+    . Common uses: reversing logic
+

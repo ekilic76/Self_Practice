@@ -1,0 +1,3 @@
+Increment
+    .Incrementing is updating a value by 1 or adding 1 to the value
+    .Updating a number by one is a very common function in programming. it is used to count or used in loops to keep track of iterations(cycles)

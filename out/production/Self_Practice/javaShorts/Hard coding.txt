@@ -1,0 +1,7 @@
+Hard Coding
+    . Hardcoding means to assign value directly in the code.
+    .Hardcoding is something to avoid in most cases
+    .The opposite would be dynamic, when the value of something is coming from outside of the code(could be from a different
+    file like text file, excel file or even different source like browser or database)
+    . Imagine you are gathering information about a person's name. The name would be hardcoded if you typing "james"
+    directly into the code instead of dynamically getting the information from outside the code.

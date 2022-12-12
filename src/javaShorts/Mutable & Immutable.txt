@@ -1,0 +1,5 @@
+Mutable & Immutable
+    .
+    Mutability is to change the value after creation, but immutability is the opposite, after creation the value cannot be changed
+    . Immutability of abjects is first seen with the string class. After a string object is created the value of it cannot be changed.
+    It is fixed. Details about what this means will be talked about in class

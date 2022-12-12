@@ -1,0 +1,8 @@
+Readability
+    . Having any repeating code is not recommended. having repaiting code does not cause a syntax issue but will go
+    against preferred conventions
+    . To avoid repeating our selves we want to create code that is reusable, meaning we will not need to repeat the code
+     anywhere again and just use the code again
+     . Reusable code also allows the block of statements to be used easier in other places, such as other files
+
+
